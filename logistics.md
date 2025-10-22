@@ -10,9 +10,6 @@ title: Logistics
 </div>
  
 
-
-# Logistics and Contact
-
 **Venue:** Indian Institute of Technology Bombay, Mumbai, India  
 **Workshop Dates:** 9 Dec (afternoon) – 11 Dec (forenoon), 2025  
 
