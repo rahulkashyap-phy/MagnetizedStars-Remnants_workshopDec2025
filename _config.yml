@@ -3,8 +3,9 @@ title: ""
 description: ""
 show_excerpts: false
 markdown: kramdown
-baseurl: ""
-url: "https://your-username.github.io/stellar-magnetism-workshop-2025"
+url: "https://rahulkashyap-phy.github.io"
+baseurl: "/MagnetizedStars-Remnants_workshopDec2025"
+
 
 # Disable header/footer duplication
 minima:
