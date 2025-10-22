@@ -12,10 +12,10 @@ title: Logistics
 **Travel:** Participants are requested to cover their own travel expenses.
 
 **Contact:**  
-📧 Email: workshop.organizer@iitb.ac.in  
+📧 Email: [Rashmi Meena (Graduate Student)](mailto:23n0315@iitb.ac.in), [Rishi Laishram (Graduate Student)](mailto:rishilaishram9@gmail.com)
 
 **Organizing Committee:**  
-- [Your Name], IIT Bombay  
-- [Other Members]  
+- Rahul Kashyap, IIT Bombay  
+- Nils Andersson, University of Southampton
 
-**Sponsors:** Department of Physics, IIT Bombay  
+**Sponsors:** SCPP Fund, IRCC, IIT Bombay  

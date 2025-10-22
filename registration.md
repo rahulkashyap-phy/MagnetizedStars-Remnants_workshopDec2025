@@ -7,7 +7,7 @@ title: Registration
 
 Please register your interest and submit your talk title and abstract at the following link:
 
-👉 [Google Form Placeholder Link](https://forms.gle/placeholder)
+👉 [Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLSfV5qV5CdfLXXu1SmsQWo2vsyFlE3nzFOcEvXn4YDLGnoMGxg/viewform?usp=header)
 
 Information requested:
 - Name, affiliation, and email  
