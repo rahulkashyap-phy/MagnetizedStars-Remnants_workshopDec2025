@@ -41,6 +41,7 @@ title: Home
 
 ---
 
+<!-- 
 <div align="center" style="margin-top:40px;">
   <!--
   <h1 style="color:#003366; font-weight:700; margin-bottom:0;">
@@ -49,16 +50,13 @@ title: Home
   <p style="font-size:1.1em; color:#333; margin-top:0.5em;">
     9–11 December 2025 · Indian Institute of Technology Bombay
   </p>
-  -->
+ 
   <p>
     <img src="{{ '/assets/images/iitb_logo.png' | relative_url }}" alt="IIT Bombay Logo" width="120" style="margin-top:10px;">
   </p>
 </div>
-
+ -->
 ---
-
-
-### 🧭 Overview
 
 Welcome to a focused workshop exploring the **magnetohydrodynamic (MHD) evolution of low-mass stars, white dwarfs, and binary systems**.  
 This meeting celebrates the **10-year anniversary of the first direct gravitational-wave detection** and emphasizes the interplay between computational and astrophysical perspectives.
@@ -71,7 +69,7 @@ Key features:
 
 ---
 
-### 🗓️ Workshop Details
+### Workshop Details
 
 | Item | Details |
 |------|----------|
@@ -83,7 +81,7 @@ Key features:
 
 ---
 
-### 🧩 Navigation
+<!--
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:15px; text-align:center; margin-top:15px;">
   <a href="schedule.html" class="nav-card">📅 Schedule</a>
@@ -92,10 +90,10 @@ Key features:
   <a href="registration.html" class="nav-card">📝 Registration</a>
   <a href="logistics.html" class="nav-card">📍 Logistics & Contact</a>
 </div>
-
+ -->
 ---
 
-### 💬 Aims of the Workshop
+###  Aims of the Workshop
 
 - Discuss current progress in **stellar dynamo theory**, **MHD turbulence**, and **binary interactions**  
 - Explore how magnetic fields evolve through **stellar collapse and merger**  
