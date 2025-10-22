@@ -3,6 +3,20 @@ layout: default
 title: Home
 ---
 
+<div style="
+  background-image: url('assets/images/image.png');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 80px 20px;
+  border-radius: 12px;
+  text-align: center;
+">
+  <h1 style="font-size:2.2em; margin-bottom:0.4em;">Workshop on Magnetism in Low-Mass Stars</h1>
+  <p style="font-size:1.2em; opacity:0.95;">9–11 December 2025 · IIT Bombay</p>
+</div>
+
+
 <div align="center">
   <h1 style="color:#003366; font-weight:700; margin-bottom:0;">Workshop on Magnetism in Low-Mass Stars & Compact Remnants</h1>
   <p style="font-size:1.1em; color:#333; margin-top:0.5em;">
@@ -14,6 +28,7 @@ title: Home
 </div>
 
 ---
+
 
 ### 🧭 Overview
 
