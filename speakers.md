@@ -1,6 +1,7 @@
 
 
-1. Nils Andersson, University of Southampton
+1. Nils Andersson, University of Southampton, UK
+1. Bangalore Sathyaprakash, Pennsylvania State University, USA
 1. Durgesh Tripathi, IUCAA
 1. Archana Soam, IIA
 1. Pallavi Bhat, ICTS
