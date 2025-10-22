@@ -16,7 +16,7 @@ title: Logistics
     <img src="{{ '/assets/images/iitb_logo.png' | relative_url }}" alt="IIT Bombay Logo" width="120" style="margin-top:10px;">
   </p>
 </div>
- -->
+ 
 
 
 # Logistics and Contact
