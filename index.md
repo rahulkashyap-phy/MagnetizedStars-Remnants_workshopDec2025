@@ -41,22 +41,29 @@ title: Home
 
 ---
 
-<!-- 
+ 
 <div align="center" style="margin-top:40px;">
-  <!--
+
+<!--
   <h1 style="color:#003366; font-weight:700; margin-bottom:0;">
     Workshop on Magnetism in Low-Mass Stars & Compact Remnants
   </h1>
   <p style="font-size:1.1em; color:#333; margin-top:0.5em;">
     9–11 December 2025 · Indian Institute of Technology Bombay
   </p>
- 
+ <!--
   <p>
     <img src="{{ '/assets/images/iitb_logo.png' | relative_url }}" alt="IIT Bombay Logo" width="120" style="margin-top:10px;">
   </p>
+   -->
 </div>
- -->
+
 ---
+
+
+
+
+
 
 Welcome to a focused workshop exploring the **magnetohydrodynamic (MHD) evolution of low-mass stars, white dwarfs, and binary systems**.  
 This meeting celebrates the **10-year anniversary of the first direct gravitational-wave detection** and emphasizes the interplay between computational and astrophysical perspectives.
