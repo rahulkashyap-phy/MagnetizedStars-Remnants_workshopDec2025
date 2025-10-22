@@ -1,36 +1,132 @@
+/* === Base layout === */
 body {
-  font-family: 'Segoe UI', 'Roboto', sans-serif;
-  background-color: #f9fafc;
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  background-color: #f4f5f7; /* soft off-white */
   color: #222;
   margin: 0;
+  padding: 0;
+  line-height: 1.7;
+}
+
+/* === Header banner === */
+header {
+  background-color: #003366;
+  color: white;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  font-weight: 600;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+header h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+header p {
+  margin: 0.3rem 0 0;
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+/* === Sidebar === */
+#sidebar {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  top: 0;
+  left: -260px;
+  background-color: #ffffff;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+  overflow-x: hidden;
+  transition: all 0.3s ease;
+  padding-top: 60px;
+  z-index: 1000;
+}
+
+#sidebar a {
+  padding: 12px 24px;
+  text-decoration: none;
+  font-size: 1rem;
+  color: #003366;
+  display: block;
+  transition: 0.2s;
+  border-left: 4px solid transparent;
+}
+
+#sidebar a:hover {
+  background-color: #eaf3ff;
+  border-left: 4px solid #004080;
+}
+
+/* === Open/close sidebar === */
+#sidebarToggle {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  font-size: 1.5rem;
+  background-color: #004080;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  z-index: 1100;
+  transition: background 0.2s;
+}
+
+#sidebarToggle:hover {
+  background-color: #002b55;
+}
+
+/* Sidebar open state */
+.sidebar-open #sidebar {
+  left: 0;
+}
+
+.sidebar-open #main-content {
+  margin-left: 250px;
+  transition: margin-left 0.3s ease;
+}
+
+/* === Main content === */
+#main-content {
   padding: 2em;
   max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-  line-height: 1.6;
+  margin: auto;
+  transition: margin-left 0.3s ease;
 }
 
 h1, h2, h3 {
   color: #003366;
-  margin-top: 1.2em;
 }
 
-a {
-  color: #0055cc;
+/* === Buttons & links === */
+a, .button {
+  color: #004080;
   text-decoration: none;
   font-weight: 500;
 }
 
-a:hover {
-  text-decoration: underline;
+.button {
+  display: inline-block;
+  background-color: #004080;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-align: center;
+  transition: all 0.2s ease;
 }
 
+.button:hover {
+  background-color: #0059b3;
+}
+
+/* === Tables === */
 table {
   border-collapse: collapse;
   width: 100%;
   margin-top: 1em;
   background: white;
-  box-shadow: 0 0 4px rgba(0,0,0,0.05);
+  box-shadow: 0 0 5px rgba(0,0,0,0.05);
 }
 
 th, td {
@@ -43,19 +139,13 @@ th {
   background-color: #eaf3ff;
 }
 
-.nav-card {
-  display: block;
-  padding: 14px;
-  background: white;
-  border-radius: 10px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-  transition: all 0.2s ease;
-  font-weight: 600;
-  color: #003366;
-}
-
-.nav-card:hover {
-  background: #004080;
-  color: white;
-  transform: translateY(-2px);
+/* === Footer === */
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #666;
+  font-size: 0.9em;
+  border-top: 1px solid #ddd;
+  background-color: #fafbfc;
+  margin-top: 50px;
 }

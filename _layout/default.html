@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | Stellar Magnetism Workshop 2025</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+  <button id="sidebarToggle">☰</button>
+
+  <nav id="sidebar">
+    <a href="{{ '/index.html' | relative_url }}">🏠 Home</a>
+    <a href="{{ '/schedule.html' | relative_url }}">📅 Schedule</a>
+    <a href="{{ '/topics.html' | relative_url }}">📚 Scientific Topics</a>
+    <a href="{{ '/speakers.html' | relative_url }}">🎤 Speakers</a>
+    <a href="{{ '/registration.html' | relative_url }}">📝 Registration</a>
+    <a href="{{ '/logistics.html' | relative_url }}">📍 Logistics & Contact</a>
+  </nav>
+
+  <header>
+    <h1>Workshop on Magnetism in Low-Mass Stars & Compact Remnants</h1>
+    <p>9–11 December 2025 · Indian Institute of Technology Bombay</p>
+  </header>
+
+  <main id="main-content">
+    {{ content }}
+  </main>
+
+  <footer>
+    © 2025 Workshop on Stellar Magnetism · Department of Physics, IIT Bombay
+  </footer>
+
+  <script>
+    const toggle = document.getElementById('sidebarToggle');
+    toggle.addEventListener('click', () => {
+      document.body.classList.toggle('sidebar-open');
+    });
+  </script>
+</body>
+</html>
