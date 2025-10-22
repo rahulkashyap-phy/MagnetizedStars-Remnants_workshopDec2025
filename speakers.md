@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Speakers
+---
 
 1. Nils Andersson, University of Southampton, UK
 1. Bangalore Sathyaprakash, Pennsylvania State University, USA
