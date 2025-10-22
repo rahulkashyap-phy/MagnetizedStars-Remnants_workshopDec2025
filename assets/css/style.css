@@ -7,6 +7,28 @@ body {
   line-height: 1.7;
 }
 
+.topnav {
+  background-color: #003366;
+  text-align: center;
+  padding: 10px 0;
+  white-space: nowrap;         /* prevent ugly wrapping */
+  overflow-x: auto;            /* allow horizontal scroll if too many items */
+}
+
+.topnav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 14px;
+  display: inline-block;       /* ensure each link lays out properly */
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+.topnav a:hover {
+  background-color: #004c99;
+}
+
+
 /* === Sidebar === */
 #sidebar {
   height: 100%;
