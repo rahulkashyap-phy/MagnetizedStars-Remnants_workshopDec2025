@@ -5,11 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | Stellar Magnetism Workshop 2025</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
   <button id="sidebarToggle">☰</button>
 
+  <!-- Sidebar -->
   <nav id="sidebar">
     <a href="{{ '/index.html' | relative_url }}">🏠 Home</a>
     <a href="{{ '/schedule.html' | relative_url }}">📅 Schedule</a>
@@ -19,9 +21,13 @@
     <a href="{{ '/logistics.html' | relative_url }}">📍 Logistics & Contact</a>
   </nav>
 
-  <header>
-    <h1>Workshop on Magnetism in Low-Mass Stars & Compact Remnants</h1>
-    <p>9–11 December 2025 · Indian Institute of Technology Bombay</p>
+  <!-- Hero Banner -->
+  <header class="hero">
+    <img src="{{ '/assets/images/banner.jpg' | relative_url }}" alt="Workshop Banner">
+    <div class="hero-text">
+      <h1>Workshop on Magnetism in Low-Mass Stars & Compact Remnants</h1>
+      <p>9–11 December 2025 · Indian Institute of Technology Bombay</p>
+    </div>
   </header>
 
   <main id="main-content">
