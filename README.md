@@ -1,0 +1,5 @@
+# Workshop on Magnetism in Low-Mass Stars and Compact Remnants
+
+A focused workshop hosted at *Indian Institute of Technology Bombay*, 9–11 December 2025.
+
+Visit the website 👉 [https://your-username.github.io/stellar-magnetism-workshop-2025](https://your-username.github.io/stellar-magnetism-workshop-2025)
