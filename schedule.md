@@ -3,17 +3,69 @@ layout: default
 title: Schedule
 ---
 
-# Workshop Schedule (TBD)
-<!--
-| Date | Time | Session | Speaker |
-|------|------|----------|----------|
-| **9 Dec (Tue)** | 14:00–15:30 | Opening & Overview | Organizer |
-| | 15:30–16:30 | Lecture: Newtonian MHD | Prof. Nils Andersson |
-| | 17:00–18:00 | Contributed Talks | TBD |
-| **10 Dec (Wed)** | 09:00–10:00 | Lecture: Relativistic MHD | Prof. Nils Andersson |
-| | 10:30–12:00 | Dynamo & Turbulence | TBD |
-| | 13:00–15:00 | WD Formation & Flux Evolution | TBD |
-| | 15:00–17:00 | Binary WD Mergers & MHD | TBD |
-| **11 Dec (Thu)** | 09:00–10:30 | Spin Evolution & Winds | TBD |
-| | 11:00–12:00 | Closing Discussion | All |
--->
+# 🗓️ Workshop Schedule  
+**Workshop on Magnetism in Low-Mass Stars & Compact Remnants**  
+📍 *Indian Institute of Technology Bombay*  
+🗓️ *9 – 11 December 2025*  
+
+---
+
+## 🧭 Day 1 — Tuesday, 9 December 2025
+
+### Afternoon Session (2:00 PM – 5:00 PM)
+
+| Time | Speaker | Affiliation | Duration | Title |
+|------|----------|--------------|-----------|--------|
+| 2:00 – 2:15 PM | Opening remarks | Organizers | 15 min | Welcome & Overview |
+| 2:15 – 3:15 PM | **Prof. Nils Andersson** | University of Southampton, UK | 1 hr | TBD |
+| 3:15 – 3:45 PM | **Saikat Das** | Student | 30 min | TBD |
+| 3:45 – 4:15 PM | **Hrishav** | Student | 30 min | TBD |
+| 4:15 – 5:00 PM | — | All Participants | 45 min | Discussion & Q&A |
+
+---
+
+## 🌞 Day 2 — Wednesday, 10 December 2025
+
+### Morning Session (10:00 AM – 1:00 PM)
+
+| Time | Speaker | Affiliation | Duration | Title |
+|------|----------|--------------|-----------|--------|
+| 10:00 – 11:00 AM | **Prof. Durgesh Tripathi** | IUCAA | 1 hr | TBD |
+| 11:00 – 12:00 PM | **Prof. Archana Soam** | IIA | 1 hr | TBD |
+| 12:00 – 12:30 PM | **Mohammed Irshad** | Student | 30 min | TBD |
+| 12:30 – 1:00 PM | — | All Participants | 30 min | Discussion |
+
+### Afternoon Session (2:00 PM – 5:00 PM)
+
+| Time | Speaker | Affiliation | Duration | Title |
+|------|----------|--------------|-----------|--------|
+| 2:00 – 3:00 PM | **Prof. Pallavi Bhat** | ICTS | 1 hr | TBD |
+| 3:00 – 4:00 PM | **Prof. Prasanta Bera** | Banaras Hindu University | 1 hr | TBD |
+| 4:00 – 4:30 PM | **Mridweeka** | Student | 30 min | TBD |
+| 4:30 – 5:00 PM | — | All Participants | 30 min | Discussion |
+
+---
+
+## 🌅 Day 3 — Thursday, 11 December 2025
+
+### Morning Session (10:00 AM – 1:00 PM)
+
+| Time | Speaker | Affiliation | Duration | Title |
+|------|----------|--------------|-----------|--------|
+| 10:00 – 11:00 AM | **Prof. G. C. Anupama** | IIA | 1 hr | TBD |
+| 11:00 – 12:00 PM | **Dr. Nishant Singh** | IUCAA | 1 hr | TBD |
+| 12:00 – 12:30 PM | **Dr. Devendra Sahu** | — | 30 min | TBD |
+| 12:30 – 1:00 PM | — | All Participants | 30 min | Final Discussion & Closing Remarks |
+
+---
+
+## ☕ Social & Informal Gatherings
+
+| Time | Activity | Location |
+|------|-----------|-----------|
+| 1:00 – 2:00 PM (daily) | Lunch Break | IIT Bombay Campus Canteen |
+| 7:00 PM (10 Dec) | Workshop Dinner | IITB Guest House |
+
+---
+
+*Note: Each talk title will be updated once abstracts are received from the speakers.*
