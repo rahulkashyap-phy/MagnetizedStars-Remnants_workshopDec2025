@@ -36,7 +36,7 @@ Key features:
 | **Venue** | IIT Bombay, Mumbai, India |
 | **Speakers** | Prof. Nils Andersson (University of Southampton, UK) + invited participants |
 | **Registration** | [Google Form link](registration.md) |
-| **Contact** | [workshop.organizer@iitb.ac.in](mailto:workshop.organizer@iitb.ac.in) |
+| **Contact** | [Rashmi Meena (Graduate Student)](mailto:23n0315@iitb.ac.in), [Rishi Laishram (Graduate Student)](mailto:rishilaishram9@gmail.com) [rahulkashyap@iitb.ac.in](mailto:rahulkashyap@iitb.ac.in) |
 
 ---
 
