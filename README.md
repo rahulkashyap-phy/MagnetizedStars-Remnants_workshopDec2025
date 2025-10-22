@@ -2,4 +2,4 @@
 
 A focused workshop hosted at *Indian Institute of Technology Bombay*, 9–11 December 2025.
 
-Visit the website 👉 [https://your-username.github.io/MagnetizedStars-Remnants_workshopDec2025](https://your-username.github.io/MagnetizedStars-Remnants_workshopDec2025)
+Visit the website 👉 [https://rahulkashyap-phy.github.io/MagnetizedStars-Remnants_workshopDec2025](https://rahulkashyap-phy.github.io/MagnetizedStars-Remnants_workshopDec2025)
