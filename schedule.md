@@ -3,11 +3,14 @@ layout: default
 title: Schedule
 ---
 
-# 🗓️ Workshop Schedule  
+# Workshop Schedule  
 **Workshop on Magnetism in Low-Mass Stars & Compact Remnants**  
 📍 *Indian Institute of Technology Bombay*  
 🗓️ *9 – 11 December 2025*  
 
+TBD
+
+<!--
 ---
 
 ## 🧭 Day 1 — Tuesday, 9 December 2025
@@ -67,5 +70,5 @@ title: Schedule
 | 7:00 PM (10 Dec) | Workshop Dinner | IITB Guest House |
 
 ---
-
+-->
 *Note: Each talk title will be updated once abstracts are received from the speakers.*
