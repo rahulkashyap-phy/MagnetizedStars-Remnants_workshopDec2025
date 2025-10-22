@@ -16,8 +16,8 @@ title: Logistics
 **Accommodation:** On-campus guest house (covered by organizers).  
 **Travel:** Participants are requested to cover their own travel expenses.
 
-**Contact:**  
-📧 Email: [Rashmi Meena (Graduate Student)](mailto:23n0315@iitb.ac.in), [Rishi Laishram (Graduate Student)](mailto:rishilaishram9@gmail.com)
+** Local Organizing Committee:**  
+[Rashmi Meena (Graduate Student)](mailto:23n0315@iitb.ac.in), [Rishi Laishram (Graduate Student)](mailto:rishilaishram9@gmail.com)
 
 **Organizing Committee:**  
 - Rahul Kashyap, IIT Bombay  
