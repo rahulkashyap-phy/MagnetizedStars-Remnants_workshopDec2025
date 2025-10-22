@@ -3,6 +3,9 @@ layout: default
 title: Schedule
 ---
 
+# List of participants and invited speakers
+{% include_relative speakers.md %}
+
 # Workshop Schedule  
 **Workshop on Magnetism in Low-Mass Stars & Compact Remnants**  
 📍 *Indian Institute of Technology Bombay*  
