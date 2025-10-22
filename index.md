@@ -3,27 +3,53 @@ layout: default
 title: Home
 ---
 
+<!-- ===== Hero Section with background image ===== -->
 <div style="
-  background-image: url('assets/images/image.png');
-  background-size: cover;
-  background-position: center;
-  color: white;
-  padding: 80px 20px;
-  border-radius: 12px;
+  position: relative;
+  background: url('{{ '/assets/images/image.png' | relative_url }}') center/cover no-repeat;
+  border-radius: 16px;
+  overflow: hidden;
+  height: 380px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
 ">
-  <h1 style="font-size:2.2em; margin-bottom:0.4em;">Workshop on Magnetism in Low-Mass Stars</h1>
-  <p style="font-size:1.2em; opacity:0.95;">9–11 December 2025 · IIT Bombay</p>
+  <!-- Semi-transparent overlay for contrast -->
+  <div style="
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.35);
+  "></div>
+
+  <!-- Text content -->
+  <div style="
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    text-shadow: 1px 2px 6px rgba(0,0,0,0.7);
+    font-family: 'Inter', 'Segoe UI', sans-serif;
+  ">
+    <h1 style="font-size:2.4em; font-weight:600; margin:0 0 0.3em 0;">
+      Workshop on Magnetism in Low-Mass Stars
+    </h1>
+    <p style="font-size:1.2em; font-weight:400; opacity:0.95;">
+      9–11 December 2025 · IIT Bombay
+    </p>
+  </div>
 </div>
 
+---
 
-<div align="center">
-  <h1 style="color:#003366; font-weight:700; margin-bottom:0;">Workshop on Magnetism in Low-Mass Stars & Compact Remnants</h1>
+<div align="center" style="margin-top:40px;">
+  <h1 style="color:#003366; font-weight:700; margin-bottom:0;">
+    Workshop on Magnetism in Low-Mass Stars & Compact Remnants
+  </h1>
   <p style="font-size:1.1em; color:#333; margin-top:0.5em;">
     9–11 December 2025 · Indian Institute of Technology Bombay
   </p>
   <p>
-    <img src="assets/images/iitb_logo.png" alt="IIT Bombay Logo" width="120" style="margin-top:10px;">
+    <img src="{{ '/assets/images/iitb_logo.png' | relative_url }}" alt="IIT Bombay Logo" width="120" style="margin-top:10px;">
   </p>
 </div>
 
