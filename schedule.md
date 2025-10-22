@@ -4,7 +4,7 @@ title: Schedule
 ---
 
 # Workshop Schedule (Tentative)
-
+<!--
 | Date | Time | Session | Speaker |
 |------|------|----------|----------|
 | **9 Dec (Tue)** | 14:00–15:30 | Opening & Overview | Organizer |
@@ -16,3 +16,4 @@ title: Schedule
 | | 15:00–17:00 | Binary WD Mergers & MHD | TBD |
 | **11 Dec (Thu)** | 09:00–10:30 | Spin Evolution & Winds | TBD |
 | | 11:00–12:00 | Closing Discussion | All |
+-->
