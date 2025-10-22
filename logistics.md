@@ -3,11 +3,10 @@ layout: default
 title: Logistics
 ---
 
-<div align="center" style="margin-top:40px;">
- 
-  <p>
-    <img src="{{ '/assets/images/iitb_logo.png' | relative_url }}" alt="IIT Bombay Logo" width="120" style="margin-top:10px;">
-  </p>
+
+<div style="display:flex; align-items:center; gap:12px;">
+  <img src="{{ '/assets/images/iitb_logo.png' | relative_url }}" alt="IIT Bombay Logo" width="70">
+  <h1 style="margin:0;">Logistics and Contact</h1>
 </div>
  
 
