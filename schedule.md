@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 ---
 
-# Workshop Schedule (Tentative)
+# Workshop Schedule (TBD)
 <!--
 | Date | Time | Session | Speaker |
 |------|------|----------|----------|
