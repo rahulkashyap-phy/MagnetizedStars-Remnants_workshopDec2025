@@ -1,6 +1,15 @@
 theme: minima
-title: Stellar Magnetism Workshop 2025
-description: Workshop on Magnetism in Low-Mass Stars and Compact Remnants
+title: ""
+description: ""
+show_excerpts: false
+markdown: kramdown
 baseurl: ""
 url: "https://your-username.github.io/stellar-magnetism-workshop-2025"
-markdown: kramdown
+
+# Disable header/footer duplication
+minima:
+  skin: classic
+  date_format: "%b %-d, %Y"
+  social_links: false
+  show_title: false
+  show_footer: false
