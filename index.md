@@ -49,7 +49,7 @@ title: Home
   <p style="font-size:1.1em; color:#333; margin-top:0.5em;">
     9–11 December 2025 · Indian Institute of Technology Bombay
   </p>
-  
+  -->
   <p>
     <img src="{{ '/assets/images/iitb_logo.png' | relative_url }}" alt="IIT Bombay Logo" width="120" style="margin-top:10px;">
   </p>
