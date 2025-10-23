@@ -46,7 +46,7 @@ title: Home
 
 <!--
   <h1 style="color:#003366; font-weight:700; margin-bottom:0;">
-    Workshop on Magnetism in Low-Mass Stars & Compact Remnants
+    Workshop on Magnetism in Low-Mass Stars & their Compact Remnants
   </h1>
   <p style="font-size:1.1em; color:#333; margin-top:0.5em;">
     9–11 December 2025 · Indian Institute of Technology Bombay
