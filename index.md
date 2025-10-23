@@ -31,7 +31,7 @@ title: Home
     font-family: 'Inter', 'Segoe UI', sans-serif;
   ">
     <h1 style="font-size:2.4em; font-weight:600; margin:0 0 0.3em 0;">
-      Workshop<br>on<br>Magnetism in Low-Mass Stars
+      Workshop<br>on<br>Magnetism in Low-Mass Stars <br> & their <br> Compact Remnants
     </h1>
     <p style="font-size:1.2em; font-weight:400; opacity:0.95;">
       9–11 December 2025 · IIT Bombay
