@@ -12,8 +12,7 @@ title: Schedule
 🗓️ *9 – 11 December 2025*  
 
 
-
-Here is the current participant list from our shared Google Sheet:
+<https://docs.google.com/spreadsheets/d/e/2PACX-1vRroYeAEGZHPlXMons5D7qXRetBpFpVkgwXq7OvI0tlI1YNMBfwuVsCpxKpaqTjmsLdYIePPlVd-5Qr/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false>
 
 <iframe 
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRroYeAEGZHPlXMons5D7qXRetBpFpVkgwXq7OvI0tlI1YNMBfwuVsCpxKpaqTjmsLdYIePPlVd-5Qr/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" 
