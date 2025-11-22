@@ -14,13 +14,14 @@ title: Schedule
 
 <https://docs.google.com/spreadsheets/d/e/2PACX-1vRroYeAEGZHPlXMons5D7qXRetBpFpVkgwXq7OvI0tlI1YNMBfwuVsCpxKpaqTjmsLdYIePPlVd-5Qr/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false>
 
+<div style="overflow-x:auto; width:100%;">
 <iframe 
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRroYeAEGZHPlXMons5D7qXRetBpFpVkgwXq7OvI0tlI1YNMBfwuVsCpxKpaqTjmsLdYIePPlVd-5Qr/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" 
   width="100%" 
   height="900" 
   style="border:1px solid #ccc; border-radius:8px;">
 </iframe>
-
+</div>
 <!--
 ---
 
