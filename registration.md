@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Registration
 ---
@@ -15,4 +15,4 @@ Information requested:
 - Attendance (all days / selected days)  
 - Title and abstract (if giving a talk)  
 
-**Note:** Multiple submissions are allowed for updates or corrections. Reminders will be sent periodically.
+**Note:** Multiple submissions are allowed for updates or corrections. Reminders will be sent periodically. -->

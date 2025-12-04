@@ -16,7 +16,7 @@
 1. S. Shankaranarayanan, IIT Bombay
 1. Saikat Das, IISc
 1. Pallavi Bhat, ICTS
-1. Prasanta Bera, IIT BHU
+1. Prasanta Bera, BHU
 1. Varun Bhalerao, IIT Bombay
 1. Zenia Zuraiq, IISc
 
