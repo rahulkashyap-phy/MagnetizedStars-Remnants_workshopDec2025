@@ -83,7 +83,6 @@ Key features:
 | **Dates** | 9 Dec (afternoon) – 11 Dec (forenoon), 2025 |
 | **Venue** | IIT Bombay, Mumbai, India |
 | **Speakers** | Prof. Nils Andersson (University of Southampton, UK) + invited participants |
-| **Registration** | [Google Form link](registration.md) |
 | **Contact** | [Rashmi Meena (Graduate Student)](mailto:23n0315@iitb.ac.in), [Rishi Laishram (Graduate Student)](mailto:rishilaishram9@gmail.com), [Rahul Kashyap](mailto:rahulkashyap@iitb.ac.in) |
 
 ---
@@ -108,12 +107,13 @@ Key features:
 
 ---
 
+<!-- 
 <div align="center" style="margin-top:30px;">
   <a href="registration.html" style="background:#004080; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:600;">
     → Register Now
   </a>
 </div>
-
+-->
 ---
 <div align="center" style="margin-top:30px; font-size:0.9em; color:#666;">
   © 2025 Workshop on Stellar Magnetism · Hosted at IIT Bombay

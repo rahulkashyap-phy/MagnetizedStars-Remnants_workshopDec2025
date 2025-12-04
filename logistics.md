@@ -16,11 +16,13 @@ title: Logistics
 **Accommodation:** On-campus guest house (covered by organizers).  
 **Travel:** Participants are requested to cover their own travel expenses.
 
-**Local Organizing Committee:**  
+**Local Contacts:**  
 [Rashmi Meena (Graduate Student)](mailto:23n0315@iitb.ac.in), [Rishi Laishram (Graduate Student)](mailto:rishilaishram9@gmail.com)
 
 **Organizing Committee:**  
 - Rahul Kashyap, IIT Bombay  
 - Nils Andersson, University of Southampton
+- Rashmi Meena, IIT Bombay
+- Rishi Laishram, IIT Bombay
 
 **Sponsors:** SCPP Fund, IRCC, IIT Bombay  
